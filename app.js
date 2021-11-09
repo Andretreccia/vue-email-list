@@ -2,8 +2,9 @@ const app = new Vue ({
     el: '#app',
     data:{
         listaEmail:[
-
+            
         ],
+        shoeEmail: false
     },
     methods:{
         richiestaPsw(){
